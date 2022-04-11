@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Senthil Kumar <senthilkumar.manoharan@tnqsoftware.co.in>
+MAINTAINER Senthil Kumar 
 
 # Install base packages
 RUN apt-get update && \
